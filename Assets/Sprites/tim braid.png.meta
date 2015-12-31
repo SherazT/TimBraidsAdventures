@@ -1,0 +1,1936 @@
+fileFormatVersion: 2
+guid: 64154ceb33cf8134ab04df7e9730675f
+timeCreated: 1440822426
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tim braid_0
+    21300002: tim braid_1
+    21300004: tim braid_2
+    21300006: tim braid_3
+    21300008: tim braid_4
+    21300010: tim braid_5
+    21300012: tim braid_6
+    21300014: tim braid_7
+    21300016: tim braid_8
+    21300018: tim braid_9
+    21300020: tim braid_10
+    21300022: tim braid_11
+    21300024: tim braid_12
+    21300026: tim braid_13
+    21300028: tim braid_14
+    21300030: tim braid_15
+    21300032: tim braid_16
+    21300034: tim braid_17
+    21300036: tim braid_18
+    21300038: tim braid_19
+    21300040: tim braid_20
+    21300042: tim braid_21
+    21300044: tim braid_22
+    21300046: tim braid_23
+    21300048: tim braid_24
+    21300050: tim braid_25
+    21300052: tim braid_26
+    21300054: tim braid_27
+    21300056: tim braid_28
+    21300058: tim braid_29
+    21300060: tim braid_30
+    21300062: tim braid_31
+    21300064: tim braid_32
+    21300066: tim braid_33
+    21300068: tim braid_34
+    21300070: tim braid_35
+    21300072: tim braid_36
+    21300074: tim braid_37
+    21300076: tim braid_38
+    21300078: tim braid_39
+    21300080: tim braid_40
+    21300082: tim braid_41
+    21300084: tim braid_42
+    21300086: tim braid_43
+    21300088: tim braid_44
+    21300090: tim braid_45
+    21300092: tim braid_46
+    21300094: tim braid_47
+    21300096: tim braid_48
+    21300098: tim braid_49
+    21300100: tim braid_50
+    21300102: tim braid_51
+    21300104: tim braid_52
+    21300106: tim braid_53
+    21300108: tim braid_54
+    21300110: tim braid_55
+    21300112: tim braid_56
+    21300114: tim braid_57
+    21300116: tim braid_58
+    21300118: tim braid_59
+    21300120: tim braid_60
+    21300122: tim braid_61
+    21300124: tim braid_62
+    21300126: tim braid_63
+    21300128: tim braid_64
+    21300130: tim braid_65
+    21300132: tim braid_66
+    21300134: tim braid_67
+    21300136: tim braid_68
+    21300138: tim braid_69
+    21300140: tim braid_70
+    21300142: tim braid_71
+    21300144: tim braid_72
+    21300146: tim braid_73
+    21300148: tim braid_74
+    21300150: tim braid_75
+    21300152: tim braid_76
+    21300154: tim braid_77
+    21300156: tim braid_78
+    21300158: tim braid_79
+    21300160: tim braid_80
+    21300162: tim braid_81
+    21300164: tim braid_82
+    21300166: tim braid_83
+    21300168: tim braid_84
+    21300170: tim braid_85
+    21300172: tim braid_86
+    21300174: tim braid_87
+    21300176: tim braid_88
+    21300178: tim braid_89
+    21300180: tim braid_90
+    21300182: tim braid_91
+    21300184: tim braid_92
+    21300186: tim braid_93
+    21300188: tim braid_94
+    21300190: tim braid_95
+    21300192: tim braid_96
+    21300194: tim braid_97
+    21300196: tim braid_98
+    21300198: tim braid_99
+    21300200: tim braid_100
+    21300202: tim braid_101
+    21300204: tim braid_102
+    21300206: tim braid_103
+    21300208: tim braid_104
+    21300210: tim braid_105
+    21300212: tim braid_106
+    21300214: tim braid_107
+    21300216: tim braid_108
+    21300218: tim braid_109
+    21300220: tim braid_110
+    21300222: tim braid_111
+    21300224: tim braid_112
+    21300226: tim braid_113
+    21300228: tim braid_114
+    21300230: tim braid_115
+    21300232: tim braid_116
+    21300234: tim braid_117
+    21300236: tim braid_118
+    21300238: tim braid_119
+    21300240: tim braid_120
+    21300242: tim braid_121
+    21300244: tim braid_122
+    21300246: tim braid_123
+    21300248: tim braid_124
+    21300250: tim braid_125
+    21300252: tim braid_126
+    21300254: tim braid_127
+    21300256: tim braid_128
+    21300258: tim braid_129
+    21300260: tim braid_130
+    21300262: tim braid_131
+    21300264: tim braid_132
+    21300266: tim braid_133
+    21300268: tim braid_134
+    21300270: tim braid_135
+    21300272: tim braid_136
+    21300274: tim braid_137
+    21300276: tim braid_138
+    21300278: tim braid_139
+    21300280: tim braid_140
+    21300282: tim braid_141
+    21300284: tim braid_142
+    21300286: tim braid_143
+    21300288: tim braid_144
+    21300290: tim braid_145
+    21300292: tim braid_146
+    21300294: tim braid_147
+    21300296: tim braid_148
+    21300298: tim braid_149
+    21300300: tim braid_150
+    21300302: tim braid_151
+    21300304: tim braid_152
+    21300306: tim braid_153
+    21300308: tim braid_154
+    21300310: tim braid_155
+    21300312: tim braid_156
+    21300314: tim braid_157
+    21300316: tim braid_158
+    21300318: tim braid_159
+    21300320: tim braid_160
+    21300322: tim braid_161
+    21300324: tim braid_162
+    21300326: tim braid_163
+    21300328: tim braid_164
+    21300330: tim braid_165
+    21300332: tim braid_166
+    21300334: tim braid_167
+    21300336: tim braid_168
+    21300338: tim braid_169
+    21300340: tim braid_170
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tim braid_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_11
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_12
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_13
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_14
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_15
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_16
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_18
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1209
+        width: 82
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_19
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_20
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_21
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_22
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1209
+        width: 78
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_23
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1209
+        width: 90
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1033
+        width: 121
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1032
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1030
+        width: 121
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1029
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1026
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1026
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_30
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1028
+        width: 103
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1027
+        width: 102
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_32
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1026
+        width: 98
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_33
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1046
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_34
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1053
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_35
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1054
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_36
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1057
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_37
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1056
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_38
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1051
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_39
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1059
+        width: 125
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_40
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1059
+        width: 125
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_41
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1059
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 876
+        width: 96
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 879
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 878
+        width: 101
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 877
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_46
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 882
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 885
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 884
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_49
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 882
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_50
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 880
+        width: 103
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_51
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 885
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_52
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 882
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_53
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 877
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_54
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 874
+        width: 93
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_55
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 875
+        width: 95
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_56
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 877
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_57
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 878
+        width: 99
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_58
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 879
+        width: 102
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_59
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 880
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 737
+        width: 105
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 737
+        width: 106
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_62
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 736
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 734
+        width: 96
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 735
+        width: 100
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_65
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 735
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_66
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 735
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 735
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_68
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 737
+        width: 114
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_69
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 706
+        width: 109
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_70
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 706
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_71
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 706
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_72
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 707
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_73
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 707
+        width: 110
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_74
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 796
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_75
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 767
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_76
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 767
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_77
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 767
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_78
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 734
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_79
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 737
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_80
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 737
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_81
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 733
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_82
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 737
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_83
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 737
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_84
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 745
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_85
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 737
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_86
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 737
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_87
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 737
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_88
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 737
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 548
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_90
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 543
+        width: 101
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 552
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_92
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 553
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_93
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 543
+        width: 103
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_94
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 543
+        width: 98
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_95
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 552
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_96
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 553
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_97
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 545
+        width: 123
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_98
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 542
+        width: 129
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_99
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 543
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_100
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 547
+        width: 118
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_101
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 547
+        width: 115
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_102
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 548
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_103
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 545
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_104
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 545
+        width: 112
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_105
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 416
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_106
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 369
+        width: 107
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_107
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 369
+        width: 104
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_108
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 369
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_109
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 369
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_110
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 370
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_111
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 369
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_112
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 369
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_113
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 369
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_114
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 369
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_115
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 370
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_116
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 370
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_117
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 370
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_118
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 369
+        width: 114
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_119
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 369
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_120
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 369
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_121
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 467
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_122
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 466
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_123
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 448
+        width: 125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_124
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 435
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_125
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 432
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_126
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 435
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_127
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 416
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_128
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 416
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_129
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 419
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_130
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 276
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_131
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 211
+        width: 106
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_132
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 213
+        width: 111
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_133
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 213
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_134
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 211
+        width: 120
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_135
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 211
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_136
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 211
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_137
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 210
+        width: 113
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_138
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 210
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_139
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 208
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_140
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 204
+        width: 93
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_141
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 206
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_142
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 205
+        width: 115
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_143
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 206
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_144
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 206
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_145
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 208
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_146
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 207
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_147
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 207
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_148
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 208
+        width: 111
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_149
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 33
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_150
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_151
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_152
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 78
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_153
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 31
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_154
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 35
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_155
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 35
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_156
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 35
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_157
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 35
+        width: 85
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_158
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 35
+        width: 89
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_159
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 35
+        width: 88
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_160
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 35
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_161
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 35
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_162
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 35
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_163
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 44
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_164
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_165
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 44
+        width: 87
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_166
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 44
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_167
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 44
+        width: 86
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_168
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 44
+        width: 86
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_169
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 44
+        width: 87
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tim braid_170
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
